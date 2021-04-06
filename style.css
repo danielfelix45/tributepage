@@ -1,0 +1,34 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: #696969;
+}    
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    color:blue;
+}
+h2 {
+    text-align: center;
+    font-style:oblique;
+}
+h3 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-size: 15px;
+    text-align: center;
+}
+ul {
+    margin-left: 475px;
+}
+.rodape {
+    font-size: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
